@@ -16,4 +16,3 @@ dependencies:
   - opt_einsum
   - imageio
   - scikit-image
-  - p7zip

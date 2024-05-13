@@ -1,5 +1,6 @@
 import sys
-sys.path.append('core')
+sys.path.append('C:/Users/clayton.thompson/Documents/RAFT-Stereo/core')
+
 
 import argparse
 import glob
